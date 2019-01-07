@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "notooth",
+    "owner": "h",
+    "description": "oops"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "main",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "h"
+  }
+}
